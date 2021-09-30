@@ -1,0 +1,15 @@
+$var : red;
+$ris : yellow;
+
+@import "./_body";
+.rishi
+{
+    font-style: italic;
+    background-color: blueviolet;
+
+    .button{
+        background-color: $var;
+    }
+
+}
+

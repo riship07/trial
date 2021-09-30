@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACKA,AAAA,IAAI,CACJ;EALI,aAAa,EAAE,MAAM;EACrB,SAAS,EAAE,IAAI;EACf,gBAAgB,EAIJ,IAAI;CAOnB;;AATD,AAKC,IALG,CAKH,OAAO,CAAA;EACH,gBAAgB,EDVd,MAAM;CCYX;;ADTF,AAAA,MAAM,CACN;EACI,UAAU,EAAE,MAAM;EAClB,gBAAgB,EAAE,UAAU;CAM/B;;AATD,AAKI,MALE,CAKF,OAAO,CAAA;EACH,gBAAgB,EAVjB,GAAG;CAWL",
+    "sources": [
+        "style.scss",
+        "_body.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}
